@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Movim</name>
+    <name>MamaderApp</name>
     <description>
-        Explorando el acelerometro.
+        Dando de comer pipipis
     </description>
     <author email="hola@devscola.org" href="http://devscola.org">
         devscola
